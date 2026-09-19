@@ -57,3 +57,9 @@ Power BI
 Interactive Dashboard
        ↓
 Business Insights
+
+## 🎥 Dashboard Walkthrough
+
+▶️ **[Watch the Power BI Dashboard Walkthrough](./screenshots/Screen%20Recording%202026-09-20%20003800.mp4)**
+
+The video demonstrates the interactive Power BI dashboard, including customer KPIs, category analysis, age-group analysis, subscription analysis, and dashboard filters.
