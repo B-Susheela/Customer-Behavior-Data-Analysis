@@ -37,6 +37,12 @@ The analysis helps translate raw retail transaction data into insights that can 
 
 ---
 
+## 🎥 Power BI Dashboard Walkthrough
+
+![Customer Behavior Dashboard Demo](screenshots/customer_behavior_dashboard_demo.gif)
+
+The dashboard provides an interactive view of customer purchasing behavior, including customer KPIs, category analysis, age-group analysis, subscription behavior, and filtering by key customer attributes.
+
 ## 🔄 Project Workflow
 
 ```text
@@ -58,8 +64,4 @@ Interactive Dashboard
        ↓
 Business Insights
 
-## 🎥 Power BI Dashboard Walkthrough
 
-![Customer Behavior Dashboard Demo](screenshots/customer_behavior_dashboard_demo.gif)
-
-The dashboard provides an interactive view of customer purchasing behavior, including customer KPIs, category analysis, age-group analysis, subscription behavior, and filtering by key customer attributes.
