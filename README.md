@@ -43,6 +43,7 @@ The analysis helps translate raw retail transaction data into insights that can 
 
 The dashboard provides an interactive view of customer purchasing behavior, including customer KPIs, category analysis, age-group analysis, subscription behavior, and filtering by key customer attributes.
 
+
 ## 🔄 Project Workflow
 
 ```text
