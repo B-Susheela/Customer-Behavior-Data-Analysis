@@ -58,8 +58,8 @@ Interactive Dashboard
        ↓
 Business Insights
 
-## 🎥 Dashboard Walkthrough
+## 🎥 Power BI Dashboard Walkthrough
 
-▶️ **[Watch the Power BI Dashboard Walkthrough](./screenshots/Screen%20Recording%202026-09-20%20003800.mp4)**
+![Customer Behavior Dashboard Demo](screenshots/customer_behavior_dashboard_demo.gif)
 
-The video demonstrates the interactive Power BI dashboard, including customer KPIs, category analysis, age-group analysis, subscription analysis, and dashboard filters.
+The dashboard provides an interactive view of customer purchasing behavior, including customer KPIs, category analysis, age-group analysis, subscription behavior, and filtering by key customer attributes.
